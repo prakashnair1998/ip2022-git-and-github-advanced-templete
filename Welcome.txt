@@ -2,9 +2,3 @@ Hello! :) We welcome you this templete repository!
 After forking this repository to your account you can make all the changes
 you want and push them into your own Github copy repository.
 Have fun!
-  /\_/\  (
- ( ^.^ ) _)
-   \"/  (
- ( | | )
-(__d b__)
-Art by Marcin Glinski
